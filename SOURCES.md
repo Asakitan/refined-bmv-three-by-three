@@ -1,0 +1,6 @@
+# Sources and scope · 2026-11-27
+
+- [Daniel Hägele, arXiv:2611.00129v1](https://arxiv.org/html/2611.00129v1), Propositions 1–2, Lemmas 2–6 and §7. The cyclic composition average, scalar gap, triangle AM–GM and square-root elimination are from this work. Its computed dimension-three cases with three copies of the second matrix are $n=3,4$. Section 7(ii) leaves $n\ge5$ untreated; §7(iii) identifies $(5,3)$ as one of the first outstanding dimension-three cases.
+- [IQOQI open quantum problem 40](https://oqp.iqoqi.oeaw.ac.at/): refined lower and upper bounds are separate questions. [Cha and Lee](https://arxiv.org/abs/2603.19927) study failure of the upper bound, not this lower estimate. The [spectral pinching bound](https://arxiv.org/abs/2605.17782) has a different comparator.
+- [Recent three-plus-three certificate](https://www.trureturing.org/research/hagele-2026-refined-bmv-33-dimension-four/) concerns $(3,3)$, not the multiplicities treated here. Nonnegativity of the BMV coefficients alone is weaker than the evenly-spread-word comparison.
+- The search used the paper identifier, refined BMV, evenly-spread word, $(5,3)$, $S_{8,3}$, 3-by-3 Bernstein certificate and higher numbers of the first letter. The present certificate applies an ordered positive-increments chart to the scaled polynomial and certifies one finite range as a single result.
