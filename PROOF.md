@@ -1,7 +1,7 @@
 # The three-letter refined BMV trace lower bound in dimension three for five through nine other letters
 
 **Byline:** Chain.Ren · Independent research  
-**Version:** [proof-v1.0.0](https://github.com/Asakitan/refined-bmv-three-by-three/releases/tag/proof-v1.0.0) · 2026-11-27 (Australia/Sydney). OpenAI Codex contributed to the derivation, computation and exposition.
+**Version:** [proof-v1.0.1](https://github.com/Asakitan/refined-bmv-three-by-three/releases/tag/proof-v1.0.1) · 2026-11-27 (Australia/Sydney). OpenAI Codex contributed to the derivation, computation and exposition.
 
 Let $\mathcal A_{n,3}(A,B)$ be the arithmetic mean of the traces of all $\binom{n+3}{3}$ ordered words in $n$ copies of $A$ and three copies of $B$. **Theorem.** For positive semidefinite complex Hermitian $3\times3$ matrices $A,B$ and $n=5,6,7,8,9$,
 $$

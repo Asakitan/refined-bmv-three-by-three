@@ -3,16 +3,16 @@ message: "Cite this public proof using the versioned report below."
 title: 'The refined BMV trace lower bound in dimension three for five through nine A letters and three B letters'
 authors:
   - family-names: "Chain.Ren"
-version: "1.0.0"
+version: "1.0.1"
 date-released: '2026-11-27'
 license: MIT
-url: https://github.com/Asakitan/refined-bmv-three-by-three/releases/tag/proof-v1.0.0
+url: https://github.com/Asakitan/refined-bmv-three-by-three/releases/tag/proof-v1.0.1
 repository-code: https://github.com/Asakitan/refined-bmv-three-by-three
 preferred-citation:
   type: report
   title: 'The refined BMV trace lower bound in dimension three for five through nine A letters and three B letters'
   authors:
     - family-names: "Chain.Ren"
-  version: "1.0.0"
+  version: "1.0.1"
   year: 2026
-  url: https://github.com/Asakitan/refined-bmv-three-by-three/blob/proof-v1.0.0/PROOF.md
+  url: https://github.com/Asakitan/refined-bmv-three-by-three/blob/proof-v1.0.1/PROOF.md
